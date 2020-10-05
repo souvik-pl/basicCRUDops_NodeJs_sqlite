@@ -1,0 +1,23 @@
+{
+  "name": "basiccrudops_nodejs_sqlite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souvik-pl/basicCRUDops_NodeJs_sqlite.git"
+  },
+  "author": "Souvik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/souvik-pl/basicCRUDops_NodeJs_sqlite/issues"
+  },
+  "homepage": "https://github.com/souvik-pl/basicCRUDops_NodeJs_sqlite#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.0"
+  }
+}
